@@ -1,6 +1,6 @@
 
 # 💫 About Me:
- 🔭I'm currently working on expanding my portfolio.<br><br> 🌱Currently i learn machine learning and algorithms.<br><br>💬Ask me about Unity game development and game design
+ 🔭I'm currently working on a simple calculator in c#.<br><br> 🌱Currently i learn machine learning and algorithms.<br><br>💬Ask me about Unity game development and game design
 
 
 ## 🌐 Socials:
