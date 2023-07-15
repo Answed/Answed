@@ -1,6 +1,6 @@
 
 # 💫 About Me:
- 🔭I'm currently working on vampire surviovors like bullet hell space game.<br><br> 🌱Currently i learn ASP.NET and Web API development.<br><br>💬Ask me about Unity game development and game design
+ 🔭I'm currently working on vampire surviovors like bullet hell space game.<br><br> 🌱Currently i learn Java and Minecraft Mod Development.<br><br>💬Ask me about Unity game development and game design
 
 
 ## 🌐 Socials:
